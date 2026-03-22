@@ -1,0 +1,1 @@
+add_executable(cdc_reader_component CdcReader.h CdcReader.cpp)
